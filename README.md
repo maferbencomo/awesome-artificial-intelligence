@@ -78,6 +78,7 @@ Contributions most welcome.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
+* [All AI/ML courses are free for educators and student via DataCamp Classrooms](https://www.datacamp.com/universities) - AI/ML courses range from beginner concepts like understanding LLMS to advance concepts like training models with HuggingFace
 
 
 ## Code
